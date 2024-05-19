@@ -1,0 +1,36 @@
+C:\Users\H-p\source\repos\dsaproject\dsaproject\bin\Debug\dsaproject.exe.config
+C:\Users\H-p\source\repos\dsaproject\dsaproject\bin\Debug\dsaproject.exe
+C:\Users\H-p\source\repos\dsaproject\dsaproject\bin\Debug\dsaproject.pdb
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.csproj.AssemblyReference.cache
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.Form1.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.Properties.Resources.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.csproj.GenerateResource.cache
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.csproj.CoreCompileInputs.cache
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.exe
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.pdb
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.Form2_name_.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.easylevelform.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.Form3_levels_.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.helpform.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.mediumlevelform.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.resultform.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.easylevelhelp.resources
+C:\Users\H-p\source\repos\dsaproject\dsaproject\obj\Debug\dsaproject.Hardlevelhelp.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\bin\Debug\dsaproject.exe.config
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\bin\Debug\dsaproject.exe
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\bin\Debug\dsaproject.pdb
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.csproj.AssemblyReference.cache
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.easylevelform.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.easylevelhelp.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.Form1.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.Form2_name_.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.Form3_levels_.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.Hardlevelhelp.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.helpform.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.mediumlevelform.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.Properties.Resources.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.resultform.resources
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.csproj.GenerateResource.cache
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.csproj.CoreCompileInputs.cache
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.exe
+C:\Users\MarkorInc\Documents\GitHub\Queens Gambit\dsaproject\dsaproject\obj\Debug\dsaproject.pdb
